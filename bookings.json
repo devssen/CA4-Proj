@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "64f1a1111111111111111111",
+    "property_id": "64f2b2222222222222222221",
+    "status": "confirmed",
+    "booking_date": "2025-07-01T00:00:00Z",
+    "checkin": "2025-08-01T00:00:00Z",
+    "checkout": "2025-08-30T00:00:00Z",
+    "payment": {
+      "amount": 7000,
+      "status": "paid"
+    }
+  },
+  {
+    "user_id": "64f1a1111111111111111112",
+    "property_id": "64f2b2222222222222222222",
+    "status": "pending",
+    "booking_date": "2025-07-10T00:00:00Z",
+    "checkin": "2025-08-05T00:00:00Z",
+    "checkout": "2025-09-05T00:00:00Z",
+    "payment": {
+      "amount": 8000,
+      "status": "pending"
+    }
+  },
+  {
+    "user_id": "64f1a1111111111111111114",
+    "property_id": "64f2b2222222222222222223",
+    "status": "confirmed",
+    "booking_date": "2025-07-20T00:00:00Z",
+    "checkin": "2025-08-01T00:00:00Z",
+    "checkout": "2025-08-31T00:00:00Z",
+    "payment": {
+      "amount": 6500,
+      "status": "paid"
+    }
+  },
+  {
+    "user_id": "64f1a1111111111111111112",
+    "property_id": "64f2b2222222222222222225",
+    "status": "cancelled",
+    "booking_date": "2025-07-22T00:00:00Z",
+    "checkin": "2025-08-10T00:00:00Z",
+    "checkout": "2025-09-10T00:00:00Z",
+    "payment": {
+      "amount": 6000,
+      "status": "refunded"
+    }
+  },
+  {
+    "user_id": "64f1a1111111111111111111",
+    "property_id": "64f2b2222222222222222224",
+    "status": "confirmed",
+    "booking_date": "2025-07-25T00:00:00Z",
+    "checkin": "2025-08-05T00:00:00Z",
+    "checkout": "2025-08-20T00:00:00Z",
+    "payment": {
+      "amount": 7500,
+      "status": "paid"
+    }
+  }
+]
