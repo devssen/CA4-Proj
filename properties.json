@@ -1,0 +1,47 @@
+[
+  {
+    "host_id": "64f1a1111111111111111113",
+    "location": "Chennai",
+    "price": 7000,
+    "amenities": ["WiFi", "Food", "Laundry"],
+    "gender_allowed": "female",
+    "available_rooms": 3,
+    "reviews": []
+  },
+  {
+    "host_id": "64f1a1111111111111111113",
+    "location": "Mumbai",
+    "price": 8000,
+    "amenities": ["WiFi", "AC", "Housekeeping"],
+    "gender_allowed": "male",
+    "available_rooms": 2,
+    "reviews": []
+  },
+  {
+    "host_id": "64f1a1111111111111111115",
+    "location": "Bangalore",
+    "price": 6500,
+    "amenities": ["Food", "Parking", "CCTV"],
+    "gender_allowed": "female",
+    "available_rooms": 1,
+    "reviews": []
+  },
+  {
+    "host_id": "64f1a1111111111111111115",
+    "location": "Delhi",
+    "price": 7500,
+    "amenities": ["WiFi", "Laundry", "AC"],
+    "gender_allowed": "male",
+    "available_rooms": 4,
+    "reviews": []
+  },
+  {
+    "host_id": "64f1a1111111111111111113",
+    "location": "Hyderabad",
+    "price": 6000,
+    "amenities": ["WiFi", "Food"],
+    "gender_allowed": "female",
+    "available_rooms": 2,
+    "reviews": []
+  }
+]

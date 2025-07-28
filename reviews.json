@@ -1,0 +1,37 @@
+[
+  {
+    "user_id": "64f1a1111111111111111111",
+    "property_id": "64f2b2222222222222222221",
+    "rating": 4.5,
+    "comment": "Clean and safe",
+    "created_at": "2025-07-26T00:00:00Z"
+  },
+  {
+    "user_id": "64f1a1111111111111111112",
+    "property_id": "64f2b2222222222222222222",
+    "rating": 3.8,
+    "comment": "Good location but noisy",
+    "created_at": "2025-07-20T00:00:00Z"
+  },
+  {
+    "user_id": "64f1a1111111111111111114",
+    "property_id": "64f2b2222222222222222223",
+    "rating": 4.0,
+    "comment": "Affordable and well-maintained",
+    "created_at": "2025-07-21T00:00:00Z"
+  },
+  {
+    "user_id": "64f1a1111111111111111111",
+    "property_id": "64f2b2222222222222222224",
+    "rating": 4.2,
+    "comment": "Great service, friendly host",
+    "created_at": "2025-07-22T00:00:00Z"
+  },
+  {
+    "user_id": "64f1a1111111111111111112",
+    "property_id": "64f2b2222222222222222225",
+    "rating": 3.5,
+    "comment": "Food was average",
+    "created_at": "2025-07-24T00:00:00Z"
+  }
+]
