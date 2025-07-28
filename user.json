@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav@gmail.com",
+    "role": "seeker",
+    "gender": "male",
+    "ratings": []
+  },
+  {
+    "name": "Meera Nair",
+    "email": "meera@gmail.com",
+    "role": "seeker",
+    "gender": "female",
+    "ratings": []
+  },
+  {
+    "name": "Raj Patel",
+    "email": "rajp@gmail.com",
+    "role": "host",
+    "gender": "male",
+    "ratings": []
+  },
+  {
+    "name": "Divya Iyer",
+    "email": "divya@gmail.com",
+    "role": "seeker",
+    "gender": "female",
+    "ratings": []
+  },
+  {
+    "name": "Neha Sinha",
+    "email": "neha@gmail.com",
+    "role": "host",
+    "gender": "female",
+    "ratings": []
+  }
+]
